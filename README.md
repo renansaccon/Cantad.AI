@@ -1,6 +1,6 @@
 # Bem vindo ao Cantad.AI 
 
-O aplicativo Cantad.AI desenvolvido em React Native, é uma ferramenta que te ajuda na hora em que o a criatividade da aquela falhada na hora que dar uma cantada para quebrar o gelo.
+O aplicativo Cantad.AI desenvolvido em React Native, é uma ferramenta que te ajuda na hora em que a criatividade da aquela falhada na hora que dar uma cantada para quebrar o gelo.
 As cantadas são baseadas no local onde vocês estão, como uma restaurante, um parque de diversões ou até mesmo em uma floresta.
 
 
