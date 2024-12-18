@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# Bem vindo ao Cantad.AI 
+
+O aplicativo Cantad.AI desenvolvido em React Native, é uma ferramenta que te ajuda na hora em que o a criatividade da aquela falhada na hora que dar uma cantada para quebrar o gelo.
+As cantadas são baseadas no local onde vocês estão, como uma restaurante, um parque de diversões ou até mesmo em uma floresta.
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
