@@ -4,14 +4,18 @@ O aplicativo Cantad.AI desenvolvido em React Native, é uma ferramenta que te aj
 As cantadas são baseadas no local onde vocês estão, como uma restaurante, um parque de diversões ou até mesmo em uma floresta.
 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
 ## Get started
 
 1. Install dependencies
 
    ```bash
    npm install
+
+   //dependencies GROQ
+   npm install groq-sdk
+
+   //Lib Moti
+   npm install moti
    ```
 
 2. Start the app
